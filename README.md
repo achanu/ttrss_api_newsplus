@@ -6,6 +6,9 @@ It adds a new API (getCompactHeadlines) to allow (faster) two-way synchronzation
 
 The plugin requires (at least) version 1.8 of Tiny-Tiny-RSS.
 
+## Author
+- [Luca Santarelli](https://github.com/hrk)
+
 ## API Reference
 
 **getCompactHeadlines**
